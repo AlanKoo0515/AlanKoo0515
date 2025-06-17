@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]!
+I'm a passionate developer, and here's a little bit about me!
 
-<!--
-**AlanKoo0515/AlanKoo0515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Flutter**, **AI**, and **5G technology**.
+- 💻 I work with **Python**, **JavaScript**, **SQL**, and **Flutter**.
+- 🎯 My main focus right now is on **mobile development** and **AI agents**.
+- 🌍 I am based in **Malaysia**.
 
-Here are some ideas to get you started:
+## My Projects 🚀
+- 💼 [Project 1](link)
+- 📝 [Project 2](link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect! 🔗
+- Twitter: [@YourUsername](link)
+- LinkedIn: [Your Profile](link)
+- Website: [Your Portfolio](link)
+
+## Fun Fact 🎉
+- I'm also a **badminton enthusiast** and I love traveling!
