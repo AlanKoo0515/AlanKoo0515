@@ -1,6 +1,10 @@
 <h1>Welcome 👋, I'm Alan Koo</h1>
 
-<h3>Second Year Software Engineering Student | Fullstack Web and Mobile Developer</h3>
+<h3>A passionate and results-driven software developer with strong coding experience in mobile and web
+development. Currently in the final year of a Bachelor’s Degree, having completed SPM and a Diploma,
+I have successfully developed multiple real-world projects, demonstrating efficiency in full-stack development, AI
+implementation, and problem-solving. A quick learner and an adaptable team player, I thrive in dynamic
+environments, always eager to explore innovative technologies and build impactful digital solutions.</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=AlanKoo0515" alt="Profile Views" />
@@ -21,6 +25,7 @@ Email: [alankoo0515@gmail.com](mailto:alankoo0515@gmail.com)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alan-koo-0830a3287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan-koo" height="30" width="40" /></a>
+<a href="https://instagram.com/alankoo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doodledaron" height="30" width="40" /></a>
 </p>
 
 ## 🚀 Skills
@@ -34,7 +39,9 @@ Email: [alankoo0515@gmail.com](mailto:alankoo0515@gmail.com)
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AlanKoo0515&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="http://github-readme-streak-stats.herokuapp.com?user=AlanKoo0515&theme=dark&background=000000" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanKoo0515&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlanKoo0515&show_icons=true&theme=radical" alt="GitHub Stats" /> 
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=AlanKoo0515&theme=dark&background=000000" alt="GitHub Streak" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanKoo0515&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
 
@@ -49,11 +56,3 @@ Email: [alankoo0515@gmail.com](mailto:alankoo0515@gmail.com)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlanKoo0515&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
-
-## 🌟 Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpha031117&repo=supervisor-hunting-app&theme=dark)](https://github.com/alpha031117/supervisor-hunting-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlanKoo0515&repo=bawah_tech&theme=dark)](https://github.com/AlanKoo0515/bawah_tech)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doodledaron&repo=everide_frontend_updated&theme=dark)](https://github.com/doodledaron/everide_frontend_updated)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doodledaron&repo=finwise_app&theme=dark)](https://github.com/doodledaron/finwise_app)
-
