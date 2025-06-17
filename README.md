@@ -2,7 +2,7 @@
 
 <h3>Second Year Software Engineering Student | Fullstack Web and Mobile Developer</h3>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=AlanKoo0515" alt="Profile Views" />
 </p>
 
@@ -33,17 +33,10 @@ Email: [alankoo0515@gmail.com](mailto:alankoo0515@gmail.com)
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlanKoo0515&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlanKoo0515&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="http://github-readme-streak-stats.herokuapp.com?user=AlanKoo0515&theme=dark&background=000000" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanKoo0515&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=AlanKoo0515&theme=dark&background=000000" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanKoo0515&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
 
 ## 📈 Contribution Graph
 
@@ -59,32 +52,8 @@ Email: [alankoo0515@gmail.com](mailto:alankoo0515@gmail.com)
 
 ## 🌟 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpha031117&repo=tr3nity-frontend&theme=dark)](https://github.com/alpha031117/tr3nity-frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpha031117&repo=tr3nity_backend&theme=dark)](https://github.com/alpha031117/tr3nity_backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpha031117&repo=Evepay-Frontend&theme=dark)](https://github.com/alpha031117/Evepay-Frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpha031117&repo=Evepay-Backend&theme=dark)](https://github.com/alpha031117/Evepay-Backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpha031117&repo=supervisor-hunting-app&theme=dark)](https://github.com/alpha031117/supervisor-hunting-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlanKoo0515&repo=bawah_tech&theme=dark)](https://github.com/AlanKoo0515/bawah_tech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doodledaron&repo=everide_frontend_updated&theme=dark)](https://github.com/doodledaron/everide_frontend_updated)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doodledaron&repo=finwise_app&theme=dark)](https://github.com/doodledaron/finwise_app)
 
-## 🎓 Education
-
-- Currently a Penultimate Year of Software Engineering Degree Student
-
-## 💡 Interests
-
-- Fullstack Web Development
-- Fullstack Mobile Development
-- AI Integration in Web and Mobile Applications
-
-
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://twitter.com/alpha_chon21129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alpha_chon21129" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/alpha-chong-862747247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alpha-chong-862747247" height="30" width="40" /></a>
-</p>
-
----
-
-<p align="center">
-  Thanks for visiting my profile! Feel free to check out my projects and connect with me.
-</p>
